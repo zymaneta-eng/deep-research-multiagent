@@ -183,9 +183,9 @@ ruff check .
 
 ![документація API](screenshots/03_api_docs.png)
 
-![підсумок тестів](screenshots/01_tests.png)
+![після дії: результат на екрані](screenshots/02_dash1_action.png)
 
-Усі скріншоти (7): [screenshots/](screenshots/README.md)
+Усі скріншоти (9): [screenshots/](screenshots/README.md)
 
 
 ---
